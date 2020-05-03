@@ -1,0 +1,12 @@
+test/various/*
+shodan_mock_api/lib
+shodan_mock_api/share
+_build
+deps
+*.swp
+**/__pycache__/
+.formatter.exs
+fetched/
+mix.lock
+logs/
+previous_runs/
